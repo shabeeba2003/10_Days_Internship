@@ -65,3 +65,44 @@ void loop()
 
 [tinker this](https://www.tinkercad.com/things/7h6tVYaHo2l-funky-juttuli/editel)
 ---
+
+##EXPIREMENT 5 FOUR DANCING LED
+
+#PROGRAM
+
+// C++ code
+//
+void setup()
+{
+  pinMode(13/12/7/8, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(13, LOW);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+  digitalWrite(7, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(13, LOW);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+  digitalWrite(8, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(13, LOW);
+  digitalWrite(LED_BUILTIN, LOW);
+  
+}
+
+[tinker this](https://www.tinkercad.com/things/l1jFiDOAu51-sizzling-snaget/editel)
+---
