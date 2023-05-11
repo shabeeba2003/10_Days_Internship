@@ -29,5 +29,24 @@
 
 ##EXPIREMENT 4  TWO LED OF ARDUINO
 
+#PROGRAM
+
+// C++ code
+//
+void setup()
+{
+  pinMode(12/13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  digitalWrite(12, HIGH);
+  delay(500); // Wait for 1000 millisecond(s)
+}
+
 [tinker this](https://www.tinkercad.com/things/7h6tVYaHo2l-funky-juttuli/editel)
 ---
