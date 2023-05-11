@@ -24,6 +24,21 @@
 
 ##Program
 
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
 [tinker thiS](https://www.tinkercad.com/things/jU45JyGHF9G-cool-lappi-krunk/editel?tenant=circuits)
 ---
 
