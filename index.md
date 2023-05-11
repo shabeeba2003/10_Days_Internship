@@ -6,4 +6,4 @@
 
 ##EXPIRIMENT 2 BLINK OF SWITCH LED
 
-[LED](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/day2%20exp2%20led.png)
+[LED](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/day2%20exp2%20led)
