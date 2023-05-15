@@ -115,7 +115,7 @@ void loop()
 [TINKER THIS](https://www.tinkercad.com/things/cGJbMBO1Zdh-sizzling-hango-albar/editel?tenant=circuits)
 ---
 
-#DAT 5
+#DAy 5
 
 ##EXPERIMENT 1
 
