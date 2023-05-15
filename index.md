@@ -106,3 +106,10 @@ void loop()
 
 [tinker this](https://www.tinkercad.com/things/l1jFiDOAu51-sizzling-snaget/editel)
 ---
+
+#ASSIGNMENT
+
+##7 SIGMENT LED
+
+[TINKER THIS](https://www.tinkercad.com/things/cGJbMBO1Zdh-sizzling-hango-albar/editel?tenant=circuits)
+---
