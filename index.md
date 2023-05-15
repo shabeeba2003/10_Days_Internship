@@ -114,3 +114,27 @@ void loop()
 
 [TINKER THIS](https://www.tinkercad.com/things/cGJbMBO1Zdh-sizzling-hango-albar/editel?tenant=circuits)
 ---
+
+#DAT 5
+
+##EXPERIMENT 1
+
+##ANALOG SIGNAL
+
+#program
+
+const int potpin =A0;
+void setup()
+{
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int potValue=analogRead(potpin);
+  Serial.println(potValue);
+  delay(100); 
+}
+
+[tinker this](https://www.tinkercad.com/things/kHhyWzlLarm-shiny-vihelmo-hillar/editel)
+---
