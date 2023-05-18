@@ -246,3 +246,150 @@ void loop()
 
 [tinker this](https://www.tinkercad.com/things/luEVQK6SoOx-copy-of-7seg-manual/editel?tenant=circuits)
 ---
+
+#DAY 6
+
+## 3D DESIGNING TO CAR
+
+[tinker this](https://www.tinkercad.com/things/jfrPnuXCj14-spectacular-bigery/edit)
+---
+
+#DAY 7
+
+##***ROBOTICS***
+---
+
+#DAY 8
+
+##7 SEGMENT DISPLAY TO POTENTIOMETER
+
+const int potpin =A0;
+void setup()
+{
+  Serial.begin(9600);
+  
+  pinMode(8, OUTPUT);
+  pinMode(7, OUTPUT); 
+  pinMode(6, OUTPUT);
+  pinMode(5, OUTPUT); 
+  pinMode(4, OUTPUT);
+  pinMode(3, OUTPUT); 
+  pinMode(2, OUTPUT);
+}
+
+void loop()
+{
+  int potValue=analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+ 
+ 
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, HIGH);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, LOW);
+  delay(potValue); // Wait for 1000 millisecond(s) 
+  
+  
+  
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(2, LOW);
+  digitalWrite(5, LOW);
+  digitalWrite(6, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  delay(potValue); // Wait for 1000 millisecond(s)   
+ 
+
+  
+  
+  
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, LOW);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, HIGH);
+  digitalWrite(7, LOW);
+  digitalWrite(8, HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s)
+
+  
+
+  digitalWrite(2, HIGH);   
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(8, HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s)     
+ 
+  
+  
+  digitalWrite(2, LOW);  
+  digitalWrite(3, LOW);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, LOW);
+  digitalWrite(6, LOW);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s)
+  
+  
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, LOW);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, LOW);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+   delay(potValue); // Wait for 1000 millisecond(s)
+  
+  
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, LOW);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, HIGH);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s)
+  
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, LOW);
+  digitalWrite(6, LOW);
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  delay(potValue); // Wait for 1000 millisecond(s)
+
+  
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, HIGH);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s)
+  
+  
+  digitalWrite(2, HIGH);  
+  digitalWrite(3, HIGH);  
+  digitalWrite(4, HIGH);  
+  digitalWrite(5, HIGH);
+  digitalWrite(6, LOW);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  delay(potValue); // Wait for 1000 millisecond(s)
+  
+}
+
+ 
+ [tinker this](https://www.tinkercad.com/things/l40nhJ8Affp-brilliant-leelo/editel)]
+ ---
