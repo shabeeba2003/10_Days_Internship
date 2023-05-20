@@ -16,7 +16,7 @@
 [tinker this](https://www.tinkercad.com/things/ibIIrtEel17-frantic-uusam/editel)
 ---
 
-##EXPERIMENT 2 POWER SUPPLY OF LED
+## EXPERIMENT 2 POWER SUPPLY OF LED
 
 [tinker this](https://www.tinkercad.com/things/8exKWYeaVAz-brave-snaget-turing/editel)
 ---
@@ -267,7 +267,7 @@ void loop()
 
 # DAY 7
 
-##***ROBOTICS***
+##  ROBOTICS***
 ---
 
 # DAY 8
