@@ -1,6 +1,6 @@
-#DAY 2 
+# DAY 2 
 
-##EXPERIMENT 1 BLINK OF LED
+## EXPERIMENT 1 BLINK OF LED
 
 ![LED](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/day2exp1led.png)
 
@@ -9,9 +9,9 @@
 ![LED](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/day2%20exp2%20led.png)
 ---
 
-#DAY 3
+# DAY 3
 
-##EXPERIMENT 1 BLINK OF LED
+## EXPERIMENT 1 BLINK OF LED
 
 [tinker this](https://www.tinkercad.com/things/ibIIrtEel17-frantic-uusam/editel)
 ---
@@ -43,10 +43,11 @@ void loop()
 [tinker thiS](https://www.tinkercad.com/things/jU45JyGHF9G-cool-lappi-krunk/editel?tenant=circuits)
 ---
 
-##EXPIREMENT 4  TWO LED OF ARDUINO
+## EXPIREMENT 4  TWO LED OF ARDUINO
 
-#PROGRAM
+# PROGRAM
 
+---
 // C++ code
 //
 void setup()
@@ -63,14 +64,16 @@ void loop()
   digitalWrite(12, HIGH);
   delay(500); // Wait for 1000 millisecond(s)
 }
+---
 
 [tinker this](https://www.tinkercad.com/things/7h6tVYaHo2l-funky-juttuli/editel)
 ---
 
-##EXPIREMENT 5 FOUR DANCING LED
+## EXPIREMENT 5 FOUR DANCING LED
 
-#PROGRAM
+# PROGRAM
 
+---
 // C++ code
 //
 void setup()
@@ -104,25 +107,27 @@ void loop()
   digitalWrite(LED_BUILTIN, LOW);
   
 }
+---
 
 [tinker this](https://www.tinkercad.com/things/l1jFiDOAu51-sizzling-snaget/editel)
 ---
 
-#ASSIGNMENT
+# ASSIGNMENT
 
-##7 SIGMENT LED
+## 7 SIGMENT LED
 
 [TINKER THIS](https://www.tinkercad.com/things/cGJbMBO1Zdh-sizzling-hango-albar/editel?tenant=circuits)
 ---
 
-#DAy 5
+# DAy 5
 
-##EXPERIMENT 1
+## EXPERIMENT 1
 
-##ANALOG SIGNAL
+## ANALOG SIGNAL
 
-#program
+# program
 
+---
 const int potpin =A0;
 void setup()
 {
@@ -135,14 +140,16 @@ void loop()
   Serial.println(potValue);
   delay(100); 
 }
+---
 
 [tinker this](https://www.tinkercad.com/things/kHhyWzlLarm-shiny-vihelmo-hillar/editel)
 ---
 
-##EXPERIMENT  2
+## EXPERIMENT  2
 
-##ARDUINO 7 SEGMENT LED
+## ARDUINO 7 SEGMENT LED
 
+---
 void setup()
 {
   pinMode(8, OUTPUT);
@@ -243,26 +250,28 @@ void loop()
   
 
 }
+---
 
 [tinker this](https://www.tinkercad.com/things/luEVQK6SoOx-copy-of-7seg-manual/editel?tenant=circuits)
 ---
 
-#DAY 6
+# NDAY 6
 
 ## 3D DESIGNING TO CAR
 
 [tinker this](https://www.tinkercad.com/things/jfrPnuXCj14-spectacular-bigery/edit)
 ---
 
-#DAY 7
+# DAY 7
 
 ##***ROBOTICS***
 ---
 
-#DAY 8
+# DAY 8
 
 ##7 SEGMENT DISPLAY TO POTENTIOMETER
 
+---
 const int potpin =A0;
 void setup()
 {
@@ -389,7 +398,7 @@ void loop()
   delay(potValue); // Wait for 1000 millisecond(s)
   
 }
-
+---
  
  [tinker this](https://www.tinkercad.com/things/l40nhJ8Affp-brilliant-leelo/editel)
  
