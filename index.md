@@ -21,11 +21,11 @@
 [tinker this](https://www.tinkercad.com/things/8exKWYeaVAz-brave-snaget-turing/editel)
 ---
 
-##EXPERIMENT 3 ARDUINO OF LED
+## EXPERIMENT 3 ARDUINO OF LED
 
-##Program
+## Program
 
-// C++ code
+---// C++ code
 //
 void setup()
 {
@@ -47,8 +47,7 @@ void loop()
 
 # PROGRAM
 
----
-// C++ code
+--- // C++ code
 //
 void setup()
 {
