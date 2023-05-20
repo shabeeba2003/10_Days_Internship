@@ -24,8 +24,9 @@
 ## EXPERIMENT 3 ARDUINO OF LED
 
 ## Program
+```
 
----// C++ code
+// C++ code
 //
 void setup()
 {
@@ -39,15 +40,16 @@ void loop()
   digitalWrite(LED_BUILTIN, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
-
+```
 [tinker thiS](https://www.tinkercad.com/things/jU45JyGHF9G-cool-lappi-krunk/editel?tenant=circuits)
----
+
 
 ## EXPIREMENT 4  TWO LED OF ARDUINO
 
 # PROGRAM
+```
 
---- // C++ code
+// C++ code
 //
 void setup()
 {
@@ -63,7 +65,9 @@ void loop()
   digitalWrite(12, HIGH);
   delay(500); // Wait for 1000 millisecond(s)
 }
----
+
+
+```
 
 [tinker this](https://www.tinkercad.com/things/7h6tVYaHo2l-funky-juttuli/editel)
 ---
@@ -72,7 +76,7 @@ void loop()
 
 # PROGRAM
 
----
+```
 // C++ code
 //
 void setup()
@@ -106,7 +110,7 @@ void loop()
   digitalWrite(LED_BUILTIN, LOW);
   
 }
----
+```
 
 [tinker this](https://www.tinkercad.com/things/l1jFiDOAu51-sizzling-snaget/editel)
 ---
@@ -126,7 +130,7 @@ void loop()
 
 # program
 
----
+```
 const int potpin =A0;
 void setup()
 {
@@ -139,7 +143,7 @@ void loop()
   Serial.println(potValue);
   delay(100); 
 }
----
+```
 
 [tinker this](https://www.tinkercad.com/things/kHhyWzlLarm-shiny-vihelmo-hillar/editel)
 ---
@@ -148,7 +152,7 @@ void loop()
 
 ## ARDUINO 7 SEGMENT LED
 
----
+```
 void setup()
 {
   pinMode(8, OUTPUT);
@@ -249,7 +253,7 @@ void loop()
   
 
 }
----
+```
 
 [tinker this](https://www.tinkercad.com/things/luEVQK6SoOx-copy-of-7seg-manual/editel?tenant=circuits)
 ---
@@ -270,7 +274,7 @@ void loop()
 
 ##7 SEGMENT DISPLAY TO POTENTIOMETER
 
----
+```
 const int potpin =A0;
 void setup()
 {
@@ -397,7 +401,7 @@ void loop()
   delay(potValue); // Wait for 1000 millisecond(s)
   
 }
----
+```
  
  [tinker this](https://www.tinkercad.com/things/l40nhJ8Affp-brilliant-leelo/editel)
  
