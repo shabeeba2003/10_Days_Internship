@@ -1,31 +1,17 @@
 # 10 DAYS INTERNSHIP 
-
+---
 ## DAY 1
 
 ## PROFILE 
 
-
-
-
-## i'm shabeeba.p
-
-## curently studying " DIPLOMA IN ENGINEERING KUNNAMKULAM "
-
-##im indrusted in : singing,dancing,drawing,reading books
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### NAME           : SHABEEBA
+### ADDRESS        : PARAMBIL(H),PO PARUTHOOR,PALLIPPURAM
+### PLACE          : PATTAMBI
+### CURRENT STATUS : STUDENT
+### QUALIFICATION  : DIPLOMA IN ENGINEERING
+### COURSE         : ELECTRONICS AND COMMUNICATION ENGINEERING
+### USED SITES     :
+---
 
 # DAY 2 
 
@@ -33,7 +19,7 @@
 
 ![LED](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/day2exp1led.png)
 
-##EXPIRIMENT 2 BLINK OF SWITCH LED
+## EXPIRIMENT 2 BLINK OF SWITCH LED
 
 ![LED](https://github.com/shabeeba2003/10_Days_Internship/blob/main/img/day2%20exp2%20led.png)
 ---
